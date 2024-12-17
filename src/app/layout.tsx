@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Villa Qalby Qu",
+  title: "Villa Galby Qu",
   description: "Pengalaman menginap unik dengan pemandangan Gunung Rinjani",
 };
 

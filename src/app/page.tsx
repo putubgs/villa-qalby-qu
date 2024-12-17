@@ -22,7 +22,7 @@ export default function Home() {
         <section className="relative h-[60vh] min-h-[400px] w-full">
           <Image
             src="/villa-hero-img.jpeg"
-            alt="Villa Qalby Qu exterior"
+            alt="Villa Galby Qu exterior"
             fill
             className="object-cover"
             priority
@@ -31,7 +31,7 @@ export default function Home() {
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="text-center text-white">
               <h1 className="mb-4 text-4xl font-bold md:text-5xl lg:text-6xl">
-                Villa Qalby Qu
+                Villa Galby Qu
               </h1>
               <p className="text-lg md:text-xl">
                 Pengalaman menginap unik dengan pemandangan Gunung Rinjani

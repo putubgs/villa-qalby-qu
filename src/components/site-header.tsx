@@ -16,7 +16,7 @@ export function SiteHeader() {
       <div className="container flex mx-auto h-16 items-center justify-between px-5 w-full">
         <Link href="/" className="flex items-center space-x-2">
           <Coffee className="h-6 w-6" />
-          <span className="text-xl font-bold">Villa Qalby Qu</span>
+          <span className="text-xl font-bold">Villa Galby Qu</span>
         </Link>
 
         {/* Desktop Navigation */}
